@@ -57,6 +57,7 @@ If you are not sure where to put something, open an issue instead ;)
 - [Generic Docker game servers](https://github.com/OpenSourceLAN/gameservers-docker)
 
 ### Switch Configuration Tools
+- [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) — record & replay AI coding-agent runs offline.
 
 - [procurve_conf](https://github.com/991jo/procurve-conf) – A little script to put configs on HP ProCurve switches.
 
